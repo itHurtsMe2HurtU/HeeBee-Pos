@@ -1,4 +1,5 @@
 {
+  "homepage": "https://itHurtsMe2HurtU.github.io/HeeBee-Pos",
   "name": "heebee_webpos",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,7 @@
     "balloon-css": "^1.2.0",
     "clsx": "^1.1.1",
     "follow-redirects": "^1.14.9",
+    "gh-pages": "^3.2.3",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
     "moment": "^2.29.2",
@@ -41,6 +43,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
