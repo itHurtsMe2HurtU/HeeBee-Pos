@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HeeBee-Pos/static/css/main.dd050b82.css",
+    "main.js": "/HeeBee-Pos/static/js/main.36942879.js",
+    "static/js/787.0bdcda51.chunk.js": "/HeeBee-Pos/static/js/787.0bdcda51.chunk.js",
+    "static/media/authentication-bg.jpg": "/HeeBee-Pos/static/media/authentication-bg.9e6a8a08c0479e543f33.jpg",
+    "static/media/loader-1.gif": "/HeeBee-Pos/static/media/loader-1.f48c8ac7c755a950af78.gif",
+    "static/media/revicons.eot": "/HeeBee-Pos/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/HeeBee-Pos/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/logo-sm-light.png": "/HeeBee-Pos/static/media/logo-sm-light.f365a432b95f0d8b0f05.png",
+    "static/media/revicons.woff": "/HeeBee-Pos/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/empty_cart.svg": "/HeeBee-Pos/static/media/empty_cart.4baad2ca81169ae8f38895cc286f0547.svg",
+    "index.html": "/HeeBee-Pos/index.html",
+    "static/media/green-circle.svg": "/HeeBee-Pos/static/media/green-circle.18c4fac489c986a68f2c49f09efaf501.svg",
+    "static/media/red-circle.svg": "/HeeBee-Pos/static/media/red-circle.a8866b39edf7fd577c87dd3c1420ddd4.svg",
+    "static/media/index.cjs": "/HeeBee-Pos/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.dd050b82.css.map": "/HeeBee-Pos/static/css/main.dd050b82.css.map",
+    "main.36942879.js.map": "/HeeBee-Pos/static/js/main.36942879.js.map",
+    "787.0bdcda51.chunk.js.map": "/HeeBee-Pos/static/js/787.0bdcda51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd050b82.css",
+    "static/js/main.36942879.js"
+  ]
+}
