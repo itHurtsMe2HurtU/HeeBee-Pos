@@ -23,7 +23,6 @@ const getOnHoldOrders = async () => {
   }
 }
 
-
 function OnHoldOrders() {
   const [visible, setVisible] = React.useState(true);
 
